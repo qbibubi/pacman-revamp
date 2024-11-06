@@ -22,5 +22,6 @@
   <ItemGroup>
     <None Include=".gitattributes" />
     <None Include=".gitignore" />
+    <None Include="src\maps\default.map" />
   </ItemGroup>
 </Project>
